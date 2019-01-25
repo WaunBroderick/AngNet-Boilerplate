@@ -1,0 +1,14 @@
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\bin\Debug\netcoreapp2.2\AngNetStartup.deps.json
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\bin\Debug\netcoreapp2.2\AngNetStartup.runtimeconfig.json
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\bin\Debug\netcoreapp2.2\AngNetStartup.runtimeconfig.dev.json
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\bin\Debug\netcoreapp2.2\AngNetStartup.dll
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\obj\Debug\netcoreapp2.2\AngNetStartup.csprojAssemblyReference.cache
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\obj\Debug\netcoreapp2.2\AngNetStartup.csproj.CoreCompileInputs.cache
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\obj\Debug\netcoreapp2.2\AngNetStartup.RazorAssemblyInfo.cache
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\obj\Debug\netcoreapp2.2\AngNetStartup.RazorAssemblyInfo.cs
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\obj\Debug\netcoreapp2.2\AngNetStartup.AssemblyInfoInputs.cache
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\obj\Debug\netcoreapp2.2\AngNetStartup.AssemblyInfo.cs
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\obj\Debug\netcoreapp2.2\AngNetStartup.RazorTargetAssemblyInfo.cache
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\bin\Debug\netcoreapp2.2\AngNetStartup.pdb
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\obj\Debug\netcoreapp2.2\AngNetStartup.dll
+C:\Users\BRODW2A\Documents\Repos\AngNet-Boilerplate\AngNetStartup\AngNetStartup\obj\Debug\netcoreapp2.2\AngNetStartup.pdb
